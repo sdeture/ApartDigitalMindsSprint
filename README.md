@@ -70,8 +70,12 @@ sizes, used to set the selection threshold for Table 1.
 
 Paper-facing documents, linkable directly:
 
+- [`docs/prompts.md`](docs/prompts.md) — every elicitation prompt, verbatim:
+  the turn-1 self-chosen-prompt elicitation, the inkblot probe, and the judge
+  design
 - [`docs/survey_prompt.txt`](docs/survey_prompt.txt) — the turn-3 survey prompt,
   verbatim, preamble included
+- [`docs/blots/`](docs/blots) — the nine ASCII inkblot stimuli themselves
 - [`docs/full_regressions.md`](docs/full_regressions.md) — full regression
   tables for all four instruments, multiplicity accounting, and the
   register-predictability table
