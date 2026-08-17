@@ -1,6 +1,9 @@
-# Dataset card — draft for the gated HuggingFace repo
+# Dataset card — LIVE
 
-*Draft. Two decisions are Skylar's and are marked ⚠ below.*
+Shipped 2026-08-17 to
+<https://huggingface.co/datasets/sdeture/epistemic-register-corpus>
+(gated: manual approval). The authoritative copy of this card is the repo's
+own README; edit there and mirror back here.
 
 ---
 ```yaml
