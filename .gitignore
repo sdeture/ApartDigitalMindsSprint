@@ -16,3 +16,6 @@ scratch/
 
 # Household-internal notes, not for the public repo.
 CLAUDE.md
+
+# The built release — ships to HuggingFace, not to the code repo.
+release/
