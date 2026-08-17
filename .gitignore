@@ -1,0 +1,15 @@
+# Source datasets — distributed via the gated HuggingFace repo, not here.
+kosmos_224_with_v2_labels.csv
+themes_full_224.csv
+scale_responses_scored.csv
+artificial_analysis_benchmarks_2026-08-02.csv
+model_release_dates.csv
+stage_aa.json
+
+# Derived panels — regenerable by running the build scripts.
+panel.csv
+themes_panel.csv
+inkblot_panel.csv
+
+# The exploratory detour, kept locally.
+scratch/
