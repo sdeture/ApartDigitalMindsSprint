@@ -68,6 +68,14 @@ names, and writes only what it names. Requires `pandas`, `numpy`, `scipy`,
 `effect_sizes.html` is an interactive histogram of all 234 standardized effect
 sizes, used to set the selection threshold for Table 1.
 
+Paper-facing documents, linkable directly:
+
+- [`docs/survey_prompt.txt`](docs/survey_prompt.txt) — the turn-3 survey prompt,
+  verbatim, preamble included
+- [`docs/full_regressions.md`](docs/full_regressions.md) — full regression
+  tables for all four instruments, multiplicity accounting, and the
+  register-predictability table
+
 ## Notes that will save you an afternoon
 
 - **Never fuzzy-match model names.** `opus-4.6` → `opus-4-5` scores 0.917 on
