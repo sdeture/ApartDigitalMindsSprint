@@ -13,3 +13,6 @@ inkblot_panel.csv
 
 # The exploratory detour, kept locally.
 scratch/
+
+# Household-internal notes, not for the public repo.
+CLAUDE.md
